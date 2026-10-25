@@ -4,6 +4,21 @@ An iOS app for taking monthly gym progress photos and comparing them over time. 
 
 Everything stays on your phone: no account, no server, no analytics.
 
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/timeline.png" width="220" alt="Timeline grouped by month"><br>Timeline</td>
+    <td align="center"><img src="docs/screenshots/compare-slider.png" width="220" alt="Before/after slider"><br>Compare: slider</td>
+    <td align="center"><img src="docs/screenshots/compare-side-by-side.png" width="220" alt="Before/after side by side"><br>Compare: side by side</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/align.png" width="220" alt="Aligning one photo over another"><br>Align</td>
+    <td align="center"><img src="docs/screenshots/timelapse.png" width="220" alt="Time-lapse export"><br>Time-lapse</td>
+    <td align="center"><img src="docs/screenshots/settings.png" width="220" alt="Settings"><br>Settings</td>
+  </tr>
+</table>
+
+<sub>Screenshots are from the iOS Simulator using its built-in sample photos.</sub>
+
 ## Features
 
 - **Camera with ghost overlay.** Your last photo for the same pose shows semi-transparently over the camera, so distance, angle and pose match month to month. It has a 3s/10s self-timer and moves through front → side → back in one session.
