@@ -17,7 +17,7 @@ Everything stays on your phone: no account, no server, no analytics.
   </tr>
 </table>
 
-<sub>Screenshots are from the iOS Simulator using its built-in sample photos.</sub>
+<sub>Screenshots are from the iOS Simulator with illustrated demo photos, not a real person.</sub>
 
 ## Features
 
